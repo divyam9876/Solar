@@ -17,13 +17,12 @@ Using a **Random Forest Regressor**, the model estimates how much solar energy r
   - **Global Horizontal Irradiance (GHI)**
   - **Solar Power per square meter**
 - **Key Features**:
-  - Cloud Type
-  - Dew Point
-  - Dry Bulb Temperature
-  - Wind Speed
+  - Year,Month,Day,Hour
+  - DNI
+  - DHI
+  - Temperature
   - Relative Humidity
-  - Surface Albedo
-  - Solar Zenith Angle
+  - Wind Speed
 
 ---
 
